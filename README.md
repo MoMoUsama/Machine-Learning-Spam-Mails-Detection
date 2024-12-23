@@ -34,3 +34,5 @@ Cohen Kappa Score
 Performance Before and After Feature Selection, Results are stored in two Excel sheets:\
 model_evaluation_metrices_.xlsx (before feature selection).\
 model_evaluation_metrices_after_feature_selection.xlsx (after feature selection).
+
+### check the project report for more details 
