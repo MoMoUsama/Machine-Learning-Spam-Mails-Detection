@@ -7,7 +7,7 @@ This project focuses on developing and evaluating machine learning models to cla
 Source: Kaggle's Spam Mails Dataset.\
 Entries: 4,601 emails.\
 Features: 56 features describing email attributes such as word frequency, capital letters, and other spam-related characteristics.\
-Target Variable: Binary classifier (1 = Spam, 0 = Ham).\
+Target Variable: Binary classifier (1 = Spam, 0 = Ham).
 
 ### Machine Learning Models Used
 
@@ -33,4 +33,4 @@ Cohen Kappa Score
 ### Training and testing times were also compared.
 Performance Before and After Feature Selection, Results are stored in two Excel sheets:\
 model_evaluation_metrices_.xlsx (before feature selection).\
-model_evaluation_metrices_after_feature_selection.xlsx (after feature selection).\
+model_evaluation_metrices_after_feature_selection.xlsx (after feature selection).
